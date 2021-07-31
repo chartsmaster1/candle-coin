@@ -1,4 +1,4 @@
-[project overview](https://docs.google.com/document/d/1WOy6xKWq3z9BDsEMx3-WAvs0IGTMwnLPP5NQrsYLi-8/edit?usp=sharing)
+#### for an overview of candle coin project and its roadmap please visit: [coin.chartsmaster.com](https://coin.chartsmaster.com/)
 
 
 
